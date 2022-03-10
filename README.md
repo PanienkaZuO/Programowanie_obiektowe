@@ -1,2 +1,3 @@
 # Programowanie_obiektowe
-lab
+lab1
+
